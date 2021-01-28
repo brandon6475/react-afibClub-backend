@@ -1,0 +1,9 @@
+{
+  "apps" : [{
+    "name"      : "ClubAfib-BE",
+    "script"    : "./build/index.js",
+    "env": {
+      "ENVIRONMENT": "production"
+    }
+  }]
+}
